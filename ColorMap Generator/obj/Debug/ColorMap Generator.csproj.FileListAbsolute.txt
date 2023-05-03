@@ -1,0 +1,11 @@
+D:\Projects VisualStudio\University 22 2\PixelAnimation\ColorMap Generator\bin\Debug\ColorMap Generator.exe.config
+D:\Projects VisualStudio\University 22 2\PixelAnimation\ColorMap Generator\bin\Debug\ColorMap Generator.exe
+D:\Projects VisualStudio\University 22 2\PixelAnimation\ColorMap Generator\bin\Debug\ColorMap Generator.pdb
+D:\Projects VisualStudio\University 22 2\PixelAnimation\ColorMap Generator\obj\Debug\ColorMap Generator.csproj.AssemblyReference.cache
+D:\Projects VisualStudio\University 22 2\PixelAnimation\ColorMap Generator\obj\Debug\ColorMap Generator.csproj.SuggestedBindingRedirects.cache
+D:\Projects VisualStudio\University 22 2\PixelAnimation\ColorMap Generator\obj\Debug\ColorMap_Generator.Form1.resources
+D:\Projects VisualStudio\University 22 2\PixelAnimation\ColorMap Generator\obj\Debug\ColorMap_Generator.Properties.Resources.resources
+D:\Projects VisualStudio\University 22 2\PixelAnimation\ColorMap Generator\obj\Debug\ColorMap Generator.csproj.GenerateResource.cache
+D:\Projects VisualStudio\University 22 2\PixelAnimation\ColorMap Generator\obj\Debug\ColorMap Generator.csproj.CoreCompileInputs.cache
+D:\Projects VisualStudio\University 22 2\PixelAnimation\ColorMap Generator\obj\Debug\ColorMap Generator.exe
+D:\Projects VisualStudio\University 22 2\PixelAnimation\ColorMap Generator\obj\Debug\ColorMap Generator.pdb
